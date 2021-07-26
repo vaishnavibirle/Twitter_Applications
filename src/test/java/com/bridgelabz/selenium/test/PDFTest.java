@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public class PDFTest extends BaseClass1 {
 
-    @Test
+    @Test(priority = 6)
     public void pdf_test() throws IOException {
         PDFReader pdfReader = new PDFReader();
         String actualURL = pdfReader.pdfRead();

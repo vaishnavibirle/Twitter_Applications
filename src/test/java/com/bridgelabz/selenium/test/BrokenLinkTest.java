@@ -9,7 +9,7 @@ import java.io.IOException;
 
 public class BrokenLinkTest extends BaseClass {
 
-    @Test
+    @Test(priority = 7)
     public void brokenLink() throws IOException {
         BrokenLink brokenLink = new BrokenLink(driver);
         String actual = brokenLink.broken_link();

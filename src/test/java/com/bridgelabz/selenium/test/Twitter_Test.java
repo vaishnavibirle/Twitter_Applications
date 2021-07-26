@@ -30,7 +30,7 @@ import org.testng.annotations.Test;
 @Listeners(CustomListener.class)
 public class Twitter_Test extends BaseClass {
 
-    @Test
+    @Test(priority = 1)
     public void login() throws Exception {
         MyScreenRecorder.startRecording("login");
         Log.info("Login Test is started");
@@ -46,7 +46,7 @@ public class Twitter_Test extends BaseClass {
         MyScreenRecorder.stopRecording();
     }
 
-    @Test
+    @Test(priority = 2)
     public void search() throws Exception {
         MyScreenRecorder.startRecording("search");
         Login login = new Login(driver);
@@ -62,7 +62,7 @@ public class Twitter_Test extends BaseClass {
         MyScreenRecorder.stopRecording();
     }
 
-    @Test
+    @Test(priority = 3)
     public void share_post() throws Exception {
         MyScreenRecorder.startRecording("share_post");
         Login login = new Login(driver);
@@ -78,7 +78,7 @@ public class Twitter_Test extends BaseClass {
         MyScreenRecorder.stopRecording();
     }
 
-    @Test
+    @Test(priority = 4)
     public void signup_Test() throws InterruptedException {
         SignUp_Page signUp_page = new SignUp_Page(driver);
         String actual = signUp_page.signup_with_credentials();
@@ -87,7 +87,7 @@ public class Twitter_Test extends BaseClass {
         System.out.println("Signup is done");
     }
 
-    @Test
+    @Test(priority = 5)
     public void tool_tip_test() throws InterruptedException {
         Login login = new Login(driver);
         login.login_with_credentials();
