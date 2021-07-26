@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/irg/IdeaProjects/Twitter_Application/src/test">
+        <classes>
+            <class name="com.bridgelabz.selenium.test.BrokenLinkTest">
+                <methods>
+                    <include name="brokenLink"/>
+                </methods>
+            </class>
+            <class name="com.bridgelabz.selenium.test.PDFTest">
+                <methods>
+                    <include name="pdf_test"/>
+                </methods>
+            </class>
+            <class name="com.bridgelabz.selenium.test.Twitter_Test">
+                <methods>
+                    <include name="login"/>
+                    <include name="search"/>
+                    <include name="share_post"/>
+                    <include name="signup_Test"/>
+                    <include name="tool_tip_test"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

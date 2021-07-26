@@ -1,0 +1,138 @@
+[INFO ] 2021-07-22 12:45:15.696 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 12:45:15.710 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 12:45:22.137 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-22 12:45:25.392 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-22 12:45:30.426 [Test worker] Log - signup_TestTest is starting
+[WARN ] 2021-07-22 12:45:32.405 [Test worker] Log - Test is failed
+[INFO ] 2021-07-22 12:45:36.038 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 12:45:37.200 [Test worker] Log - Test is ended
+[INFO ] 2021-07-22 12:45:37.208 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 12:53:07.449 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 12:53:07.453 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 12:53:09.827 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-22 12:53:13.120 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-22 12:53:18.180 [Test worker] Log - signup_TestTest is starting
+[WARN ] 2021-07-22 12:53:19.860 [Test worker] Log - Test is failed
+[INFO ] 2021-07-22 12:53:24.060 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 12:53:25.159 [Test worker] Log - Test is ended
+[INFO ] 2021-07-22 12:53:25.165 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 12:54:52.596 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 12:54:52.602 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 12:54:55.010 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-22 12:55:03.742 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-22 12:55:08.765 [Test worker] Log - signup_TestTest is starting
+[WARN ] 2021-07-22 12:55:09.949 [Test worker] Log - Test is failed
+[INFO ] 2021-07-22 12:55:14.400 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 12:55:15.363 [Test worker] Log - Test is ended
+[INFO ] 2021-07-22 12:55:15.380 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 12:59:57.917 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 12:59:57.931 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 13:00:00.017 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-22 13:00:04.071 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-22 13:00:09.129 [Test worker] Log - signup_TestTest is starting
+[WARN ] 2021-07-22 13:00:11.243 [Test worker] Log - Test is failed
+[INFO ] 2021-07-22 13:00:14.976 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 13:00:15.888 [Test worker] Log - Test is ended
+[INFO ] 2021-07-22 13:00:15.895 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 13:05:25.117 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 13:05:25.126 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 13:05:27.272 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-22 13:05:30.251 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-22 13:05:35.300 [Test worker] Log - signup_TestTest is starting
+[WARN ] 2021-07-22 13:05:37.000 [Test worker] Log - Test is failed
+[INFO ] 2021-07-22 13:05:40.922 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 13:05:41.911 [Test worker] Log - Test is ended
+[INFO ] 2021-07-22 13:05:41.913 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 13:06:53.005 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 13:06:53.013 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 13:06:55.239 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-22 13:06:58.015 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-22 13:07:03.075 [Test worker] Log - signup_TestTest is starting
+[WARN ] 2021-07-22 13:07:04.338 [Test worker] Log - Test is failed
+[INFO ] 2021-07-22 13:07:08.370 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 13:07:09.340 [Test worker] Log - Test is ended
+[INFO ] 2021-07-22 13:07:09.342 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 13:09:54.451 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 13:09:54.459 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 13:09:56.730 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-22 13:10:00.676 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-22 13:10:05.708 [Test worker] Log - signup_TestTest is starting
+[WARN ] 2021-07-22 13:10:07.482 [Test worker] Log - Test is failed
+[INFO ] 2021-07-22 13:10:11.668 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 13:10:12.866 [Test worker] Log - Test is ended
+[INFO ] 2021-07-22 13:10:12.867 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 13:11:48.028 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 13:11:48.042 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 13:11:50.229 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-22 13:11:52.791 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-22 13:11:57.829 [Test worker] Log - signup_TestTest is starting
+[WARN ] 2021-07-22 13:11:59.814 [Test worker] Log - Test is failed
+[INFO ] 2021-07-22 13:12:03.474 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 13:12:04.354 [Test worker] Log - Test is ended
+[INFO ] 2021-07-22 13:12:04.356 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 13:13:00.443 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 13:13:00.453 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 13:13:02.784 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-22 13:13:05.716 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-22 13:13:10.772 [Test worker] Log - signup_TestTest is starting
+[WARN ] 2021-07-22 13:13:15.406 [Test worker] Log - Test is failed
+[INFO ] 2021-07-22 13:13:20.812 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 13:13:21.903 [Test worker] Log - Test is ended
+[INFO ] 2021-07-22 13:13:21.905 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 13:14:02.989 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 13:14:03.001 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 13:14:05.199 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-22 13:14:07.917 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-22 13:14:12.960 [Test worker] Log - signup_TestTest is starting
+[WARN ] 2021-07-22 13:14:17.377 [Test worker] Log - Test is failed
+[INFO ] 2021-07-22 13:14:21.145 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 13:14:22.244 [Test worker] Log - Test is ended
+[INFO ] 2021-07-22 13:14:22.246 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 13:18:42.952 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 13:18:42.960 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 13:18:45.331 [Test worker] Log - navigating to url : https://www.twitter.com/
+[WARN ] 2021-07-22 13:18:46.192 [Test worker] Log - signup_TestTest is skipped
+[INFO ] 2021-07-22 13:18:46.210 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 13:19:05.413 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 13:19:05.423 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 13:19:07.933 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-22 13:19:10.381 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-22 13:19:15.429 [Test worker] Log - signup_TestTest is starting
+[WARN ] 2021-07-22 13:19:19.833 [Test worker] Log - Test is failed
+[INFO ] 2021-07-22 13:19:24.299 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 13:19:25.351 [Test worker] Log - Test is ended
+[INFO ] 2021-07-22 13:19:25.352 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 13:20:24.767 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 13:20:24.776 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 13:20:27.251 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-22 13:20:29.992 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-22 13:20:35.044 [Test worker] Log - signup_TestTest is starting
+[WARN ] 2021-07-22 13:20:39.671 [Test worker] Log - Test is failed
+[INFO ] 2021-07-22 13:20:43.681 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 13:20:44.846 [Test worker] Log - Test is ended
+[INFO ] 2021-07-22 13:20:44.846 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 13:21:37.757 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 13:21:37.768 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 13:21:39.944 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-22 13:21:42.309 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-22 13:21:47.348 [Test worker] Log - signup_TestTest is starting
+[INFO ] 2021-07-22 13:21:54.991 [Test worker] Log - Test is passed
+[INFO ] 2021-07-22 13:21:58.936 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 13:22:00.060 [Test worker] Log - Test is ended
+[INFO ] 2021-07-22 13:22:00.061 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 15:05:52.390 [Test worker] Log - Test is starting
+[INFO ] 2021-07-22 15:05:52.400 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-22 15:05:55.226 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-22 15:05:59.032 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-22 15:06:04.123 [Test worker] Log - pdf_testTest is starting
+[INFO ] 2021-07-22 15:06:35.909 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 15:06:36.663 [Test worker] Log - Test is ended
+[INFO ] 2021-07-22 15:06:36.664 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-22 15:07:00.091 [Test worker] Log - Chrome browser is setting
+[INFO ] 2021-07-22 15:07:02.866 [Test worker] Log - Chrome driver is launched
+[INFO ] 2021-07-22 15:07:04.137 [Test worker] Log - Getting Current URL
+[INFO ] 2021-07-22 15:19:18.774 [Test worker] Log - Chrome browser is setting
+[INFO ] 2021-07-22 15:19:21.504 [Test worker] Log - Chrome driver is launched
+[INFO ] 2021-07-22 15:19:22.589 [Test worker] Log - Getting Current URL
+[INFO ] 2021-07-22 15:19:35.779 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-22 15:19:37.112 [Test worker] Log - Test is ended

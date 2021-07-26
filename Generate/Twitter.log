@@ -1,0 +1,32 @@
+[INFO ] 2021-07-24 13:11:26.460 [main] Log - Test is starting
+[INFO ] 2021-07-24 13:11:26.481 [main] Log - chrome is starting
+[INFO ] 2021-07-24 13:11:29.833 [main] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-24 13:11:37.923 [main] Log - Launched the web application.
+[INFO ] 2021-07-24 13:11:43.048 [main] Log - Chrome browser is setting
+[INFO ] 2021-07-24 13:11:45.048 [main] Log - Chrome driver is launched
+[INFO ] 2021-07-24 13:11:45.478 [main] Log - brokenLinkTest is starting
+[INFO ] 2021-07-24 13:12:26.541 [main] Log - Test is passed
+[INFO ] 2021-07-24 13:12:29.261 [main] Log - pdf_testTest is starting
+[INFO ] 2021-07-24 13:12:29.294 [main] Log - Getting Current URL
+[INFO ] 2021-07-24 13:12:35.850 [main] Log - Test is passed
+[INFO ] 2021-07-24 13:12:37.300 [main] Log - loginTest is starting
+[INFO ] 2021-07-24 13:12:37.665 [main] Log - Login Test is started
+[INFO ] 2021-07-24 13:12:37.669 [main] Log - Providing actual title
+[INFO ] 2021-07-24 13:12:37.669 [main] Log - clicking on login button
+[WARN ] 2021-07-24 13:12:39.378 [main] Log - Test is failed
+[INFO ] 2021-07-24 13:12:40.714 [main] Log - searchTest is starting
+[INFO ] 2021-07-24 13:12:40.746 [main] Log - clicking on login button
+[WARN ] 2021-07-24 13:12:43.364 [main] Log - Test is failed
+[INFO ] 2021-07-24 13:12:44.536 [main] Log - share_postTest is starting
+[INFO ] 2021-07-24 13:12:44.564 [main] Log - clicking on login button
+[WARN ] 2021-07-24 13:12:46.197 [main] Log - Test is failed
+[INFO ] 2021-07-24 13:12:47.425 [main] Log - signup_TestTest is starting
+[WARN ] 2021-07-24 13:12:51.234 [main] Log - Test is failed
+[INFO ] 2021-07-24 13:12:52.389 [main] Log - tool_tip_testTest is starting
+[INFO ] 2021-07-24 13:12:52.399 [main] Log - clicking on login button
+[WARN ] 2021-07-24 13:12:53.720 [main] Log - Test is failed
+[INFO ] 2021-07-24 13:13:00.415 [main] Log - Browser is closed
+[INFO ] 2021-07-24 13:13:01.656 [main] Log - Test is ended
+[INFO ] 2021-07-24 13:13:01.657 [main] Log - Browser is closed
+[INFO ] 2021-07-24 13:13:02.496 [main] Log - Test is ended
+[INFO ] 2021-07-24 13:13:02.497 [main] Log - C:/Users/irg/IdeaProjects/Twitter_Application/src/testTest is finished

@@ -1,0 +1,113 @@
+[INFO ] 2021-07-20 14:02:23.244 [Test worker] Log - Test is starting
+[INFO ] 2021-07-20 14:02:23.265 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-20 14:02:25.894 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-20 14:04:31.790 [Test worker] Log - Test is starting
+[INFO ] 2021-07-20 14:04:31.798 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-20 14:04:34.242 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-20 14:04:37.721 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-20 14:04:42.779 [Test worker] Log - loginTest is starting
+[INFO ] 2021-07-20 14:04:43.264 [Test worker] Log - Login Test is started
+[INFO ] 2021-07-20 14:04:43.393 [Test worker] Log - Providing actual title
+[INFO ] 2021-07-20 14:04:43.395 [Test worker] Log - clicking on login button
+[INFO ] 2021-07-20 14:04:46.645 [Test worker] Log - Entering email id 
+[INFO ] 2021-07-20 14:04:47.083 [Test worker] Log - Entering password
+[INFO ] 2021-07-20 14:04:50.312 [Test worker] Log - Clicking on login after entering credentials
+[INFO ] 2021-07-20 14:04:55.756 [Test worker] Log - Returning title of the page
+[INFO ] 2021-07-20 14:04:56.375 [Test worker] Log - Getting expected title
+[INFO ] 2021-07-20 14:04:56.376 [Test worker] Log - Comparing actual and expected title
+[INFO ] 2021-07-20 14:04:56.380 [Test worker] Log - printing message  of successfully logged in
+[INFO ] 2021-07-20 14:04:57.575 [Test worker] Log - Test is passed
+[INFO ] 2021-07-20 14:05:01.972 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-20 14:05:02.954 [Test worker] Log - Test is ended
+[INFO ] 2021-07-20 14:05:02.955 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-20 14:06:09.694 [Test worker] Log - Test is starting
+[INFO ] 2021-07-20 14:06:09.702 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-20 14:06:12.545 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-20 14:06:16.694 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-20 14:06:21.728 [Test worker] Log - loginTest is starting
+[INFO ] 2021-07-20 14:06:21.962 [Test worker] Log - Login Test is started
+[INFO ] 2021-07-20 14:06:22.003 [Test worker] Log - Providing actual title
+[INFO ] 2021-07-20 14:06:22.003 [Test worker] Log - clicking on login button
+[INFO ] 2021-07-20 14:06:25.153 [Test worker] Log - Entering email id 
+[INFO ] 2021-07-20 14:06:25.816 [Test worker] Log - Entering password
+[INFO ] 2021-07-20 14:06:29.090 [Test worker] Log - Clicking on login after entering credentials
+[INFO ] 2021-07-20 14:06:34.339 [Test worker] Log - Returning title of the page
+[INFO ] 2021-07-20 14:06:34.621 [Test worker] Log - Getting expected title
+[INFO ] 2021-07-20 14:06:34.622 [Test worker] Log - Comparing actual and expected title
+[INFO ] 2021-07-20 14:06:34.626 [Test worker] Log - printing message  of successfully logged in
+[INFO ] 2021-07-20 14:06:35.454 [Test worker] Log - Test is passed
+[INFO ] 2021-07-20 14:06:41.453 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-20 14:06:42.338 [Test worker] Log - Test is ended
+[INFO ] 2021-07-20 14:06:42.341 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-20 14:10:50.787 [Test worker] Log - Test is starting
+[INFO ] 2021-07-20 14:10:50.798 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-20 14:10:53.015 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-20 14:10:58.130 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-20 14:11:03.167 [Test worker] Log - loginTest is starting
+[INFO ] 2021-07-20 14:11:03.557 [Test worker] Log - Login Test is started
+[INFO ] 2021-07-20 14:11:03.630 [Test worker] Log - Providing actual title
+[INFO ] 2021-07-20 14:11:03.630 [Test worker] Log - clicking on login button
+[INFO ] 2021-07-20 14:11:06.863 [Test worker] Log - Entering email id 
+[INFO ] 2021-07-20 14:11:07.469 [Test worker] Log - Entering password
+[INFO ] 2021-07-20 14:11:10.751 [Test worker] Log - Clicking on login after entering credentials
+[INFO ] 2021-07-20 14:11:15.661 [Test worker] Log - Returning title of the page
+[INFO ] 2021-07-20 14:11:16.356 [Test worker] Log - Getting expected title
+[INFO ] 2021-07-20 14:11:16.364 [Test worker] Log - Comparing actual and expected title
+[WARN ] 2021-07-20 14:11:17.455 [Test worker] Log - Test is failed
+[INFO ] 2021-07-20 14:11:25.018 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-20 14:11:26.153 [Test worker] Log - Test is ended
+[INFO ] 2021-07-20 14:11:26.154 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-20 14:12:39.152 [Test worker] Log - Test is starting
+[INFO ] 2021-07-20 14:12:39.168 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-20 14:12:41.727 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-20 14:12:44.708 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-20 14:12:49.757 [Test worker] Log - loginTest is starting
+[INFO ] 2021-07-20 14:12:50.083 [Test worker] Log - Login Test is started
+[INFO ] 2021-07-20 14:12:50.131 [Test worker] Log - Providing actual title
+[INFO ] 2021-07-20 14:12:50.131 [Test worker] Log - clicking on login button
+[INFO ] 2021-07-20 14:12:53.320 [Test worker] Log - Entering email id 
+[INFO ] 2021-07-20 14:12:53.778 [Test worker] Log - Entering password
+[INFO ] 2021-07-20 14:12:57.049 [Test worker] Log - Clicking on login after entering credentials
+[INFO ] 2021-07-20 14:13:02.701 [Test worker] Log - Returning title of the page
+[INFO ] 2021-07-20 14:13:03.075 [Test worker] Log - Getting expected title
+[INFO ] 2021-07-20 14:13:03.075 [Test worker] Log - Comparing actual and expected title
+[WARN ] 2021-07-20 14:13:04.109 [Test worker] Log - Test is failed
+[INFO ] 2021-07-20 14:13:11.291 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-20 14:13:12.376 [Test worker] Log - Test is ended
+[INFO ] 2021-07-20 14:13:12.377 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-20 15:10:10.703 [Test worker] Log - Test is starting
+[INFO ] 2021-07-20 15:10:10.709 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-20 15:10:12.486 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-20 15:10:16.571 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-20 15:10:21.604 [Test worker] Log - loginTest is starting
+[INFO ] 2021-07-20 15:10:21.882 [Test worker] Log - Login Test is started
+[INFO ] 2021-07-20 15:10:21.907 [Test worker] Log - Providing actual title
+[INFO ] 2021-07-20 15:10:21.908 [Test worker] Log - clicking on login button
+[INFO ] 2021-07-20 15:10:25.008 [Test worker] Log - Entering email id 
+[INFO ] 2021-07-20 15:10:25.276 [Test worker] Log - Entering password
+[INFO ] 2021-07-20 15:10:28.415 [Test worker] Log - Clicking on login after entering credentials
+[INFO ] 2021-07-20 15:10:33.191 [Test worker] Log - Returning title of the page
+[INFO ] 2021-07-20 15:10:33.223 [Test worker] Log - Getting expected title
+[INFO ] 2021-07-20 15:10:33.224 [Test worker] Log - Comparing actual and expected title
+[WARN ] 2021-07-20 15:10:33.580 [Test worker] Log - Test is failed
+[INFO ] 2021-07-20 15:10:36.895 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-20 15:10:37.929 [Test worker] Log - Test is ended
+[INFO ] 2021-07-20 15:10:37.930 [Test worker] Log - Gradle testTest is finished
+[INFO ] 2021-07-20 15:12:00.293 [Test worker] Log - Test is starting
+[INFO ] 2021-07-20 15:12:00.298 [Test worker] Log - chrome is starting
+[INFO ] 2021-07-20 15:12:02.206 [Test worker] Log - navigating to url : https://www.twitter.com/
+[INFO ] 2021-07-20 15:12:06.947 [Test worker] Log - Launched the web application.
+[INFO ] 2021-07-20 15:12:11.988 [Test worker] Log - loginTest is starting
+[INFO ] 2021-07-20 15:12:12.236 [Test worker] Log - Login Test is started
+[INFO ] 2021-07-20 15:12:12.260 [Test worker] Log - Providing actual title
+[INFO ] 2021-07-20 15:12:12.260 [Test worker] Log - clicking on login button
+[INFO ] 2021-07-20 15:12:15.374 [Test worker] Log - Entering email id 
+[INFO ] 2021-07-20 15:12:15.630 [Test worker] Log - Entering password
+[INFO ] 2021-07-20 15:12:18.781 [Test worker] Log - Clicking on login after entering credentials
+[INFO ] 2021-07-20 15:12:23.355 [Test worker] Log - Returning title of the page
+[INFO ] 2021-07-20 15:12:23.365 [Test worker] Log - Getting expected title
+[INFO ] 2021-07-20 15:12:23.366 [Test worker] Log - Comparing actual and expected title
+[WARN ] 2021-07-20 15:12:23.951 [Test worker] Log - Test is failed
+[INFO ] 2021-07-20 15:12:30.519 [Test worker] Log - Browser is closed
+[INFO ] 2021-07-20 15:12:31.422 [Test worker] Log - Test is ended
+[INFO ] 2021-07-20 15:12:31.423 [Test worker] Log - Gradle testTest is finished
